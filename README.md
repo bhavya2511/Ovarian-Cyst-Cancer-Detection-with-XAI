@@ -41,6 +41,8 @@ To improve interpretability, the project uses Explainable AI techniques includin
 * Feature activation analysis
 
 These methods help visualize which regions of the image influenced the model’s prediction.
+<img width="1194" height="1245" alt="image" src="https://github.com/user-attachments/assets/f3fd131e-68a0-402b-aaa0-39ff32bc559c" />
+![Uploading image.png…]()
 
 ---
 
