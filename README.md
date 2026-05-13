@@ -42,7 +42,8 @@ To improve interpretability, the project uses Explainable AI techniques includin
 
 These methods help visualize which regions of the image influenced the model’s prediction.
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/f3fd131e-68a0-402b-aaa0-39ff32bc559c" />
-![Uploading image.png…]()
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/d6669dea-3312-4e67-b051-f1560507b520" />
+
 
 ---
 
